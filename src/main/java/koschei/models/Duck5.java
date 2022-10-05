@@ -10,6 +10,6 @@ public class Duck5 {
     private Egg6 egg6;
     @Override
     public String toString() {
-        return ", в утке яйцо "+egg6.toString()+"";
+        return ", v utke yajzo "+egg6.toString()+"";
     }
 }
